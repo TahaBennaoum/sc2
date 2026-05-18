@@ -20,12 +20,12 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: 'SchoolHub - Gestion Scolaire',
-    template: '%s | SchoolHub',
+    default: 'Iqraa School - Gestion Scolaire',
+    template: '%s | Iqraa School',
   },
   description: 'Plateforme moderne de gestion scolaire pour les etablissements CEM et Lycee',
   keywords: ['ecole', 'gestion scolaire', 'CEM', 'lycee', 'education', 'Algerie'],
-  authors: [{ name: 'SchoolHub' }],
+  authors: [{ name: 'Iqraa School' }],
   icons: {
     icon: [
       { url: '/icon-light-32x32.png', media: '(prefers-color-scheme: light)' },

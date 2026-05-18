@@ -42,7 +42,7 @@ export default function AuthLayout({
           <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-primary-foreground/10">
             <GraduationCap className="h-6 w-6" />
           </div>
-          <span className="text-xl font-semibold">SchoolHub</span>
+          <span className="text-xl font-semibold">Iqraa School</span>
         </div>
         
         <div className="space-y-6">
@@ -75,7 +75,7 @@ export default function AuthLayout({
         </div>
         
         <p className="text-sm text-primary-foreground/60">
-          &copy; {new Date().getFullYear()} SchoolHub. Tous droits reserves.
+          &copy; {new Date().getFullYear()} Iqraa School. Tous droits reserves.
         </p>
       </div>
 
@@ -87,7 +87,7 @@ export default function AuthLayout({
             <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-primary text-primary-foreground">
               <GraduationCap className="h-6 w-6" />
             </div>
-            <span className="text-xl font-semibold">SchoolHub</span>
+            <span className="text-xl font-semibold">Iqraa School</span>
           </div>
           
           {children}

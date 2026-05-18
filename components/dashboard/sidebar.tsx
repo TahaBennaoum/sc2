@@ -105,7 +105,7 @@ export function Sidebar() {
                     exit={{ opacity: 0, width: 0 }}
                     className="font-semibold text-sidebar-foreground whitespace-nowrap overflow-hidden"
                   >
-                    SchoolHub
+                    Iqraa School
                   </motion.span>
                 )}
               </AnimatePresence>
